@@ -1,7 +1,8 @@
 # MATRIX EFFECT
 
-# This is a funny project, Matrix Effect
-# I DO NOT WRITE THIS CODE FROM SCRATCH
+This is a funny project, Matrix Effect
+
+    I DO NOT WRITE THIS CODE FROM SCRATCH
 
 Creddit for the creator: https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din
 
