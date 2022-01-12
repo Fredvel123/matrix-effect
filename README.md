@@ -10,4 +10,4 @@ I only added a very simple "index.css" file where I changed the height and width
 
 Now you can expand your navigator, I'm in Chrome for set up full screen I only need to push "Key F11" like that:
 
-![Getting Started](../src/screenhoot.png)
+![Getting Started](./src/screenhoot.png)
