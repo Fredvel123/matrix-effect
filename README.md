@@ -2,7 +2,7 @@
 
 This is a funny project, Matrix Effect
 
-  I DO NOT WRITE THIS CODE FROM SCRATCH
+  I DID NOT WRITE THIS CODE FROM SCRATCH
 
 Creddits for the creator: https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din
 
