@@ -7,3 +7,7 @@ This is a funny project, Matrix Effect
 Creddits for the creator: https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din
 
 I only added a very simple "index.css" file where I changed the height and width to the screen. now the matrix effect is Full screen.
+
+Now you can expand your navigator, I'm in Chrome for set up full screen I only need to push "Key F11" like that:
+
+![Getting Started](../src/screenhoot.png)
