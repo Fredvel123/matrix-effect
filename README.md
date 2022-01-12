@@ -2,9 +2,8 @@
 
 This is a funny project, Matrix Effect
 
-    I DO NOT WRITE THIS CODE FROM SCRATCH
+  I DO NOT WRITE THIS CODE FROM SCRATCH
 
-Creddit for the creator: https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din
+Creddits for the creator: https://dev.to/gnsp/making-the-matrix-effect-in-javascript-din
 
-I added a very simple "index.css" file where I changed the height and width to the width. now the matrix effect is Full screen.
-
+I only added a very simple "index.css" file where I changed the height and width to the screen. now the matrix effect is Full screen.
